@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI/ML, Python and Exploring Hardware**
 
-- 💬 Ask me about **Arduino, ESP, Python, C**
+- 💬 Ask me about **Arduino UNO, ESP, Python, C, Arduino IDE**
 
 - 📫 How to reach me **payalsuthar1523@gmail.com**
 
