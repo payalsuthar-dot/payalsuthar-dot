@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Payal Suthar</h1>
 <h3 align="center">Passionate developer</h3>
 
-- 🌱 I’m currently learning **Exploring Hardware, AI/ML, Python**
+- 🌱 I’m currently learning **AI/ML, Python and Exploring Hardware**
 
 - 💬 Ask me about **Arduino, ESP, Python, C**
 
