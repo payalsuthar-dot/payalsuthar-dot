@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&pause=1000&color=08c644&center=true&random=false&width=435&lines=Hi%2C+I+am+Payal+Suthar" alt="Typing SVG" /></a>
 <h3 align="center">Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif>
-- 🌱 I’m currently upskilling in **AI/ML, Python, Data Science, NLP, Generative AI**
+- 🌱 I’m currently upskilling in AI/ML, Python, Data Science, NLP, Generative AI
 
 - 💬 Ask me about **Arduino UNO, ESP, Python, C, Arduino IDE, MySQL, Tableau, Power BI**
 
